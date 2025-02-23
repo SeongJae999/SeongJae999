@@ -24,6 +24,6 @@
 </div>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongJae999&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongJae999&show_icons=true&theme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skanehfud279)](https://solved.ac/skanehfud279/)
 
