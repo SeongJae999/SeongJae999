@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/Java-00739.svg?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-00736.svg?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
 </div>
 <br>
 <h3 align="center">🛠 Tools 🛠</h3>
