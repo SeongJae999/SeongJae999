@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>
   <img src="https://img.shields.io/badge/tldraw-FAFAFA.svg?style=for-the-badge&logo=tldraw&logoColor=black"/>
+  <img src="https://img.shields.io/badge/miro-050038.svg?style=for-the-badge&logo=miro&logoColor=black"/>
 </div>
 
 ---
